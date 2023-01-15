@@ -1,3 +1,3 @@
 public class yu {
-    int oq3423qqqq;
+    int oq23qqqq;
 }
