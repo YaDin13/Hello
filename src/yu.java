@@ -1,3 +1,3 @@
 public class yu {
-    int y = 1;
+    int y = 12;
 }
